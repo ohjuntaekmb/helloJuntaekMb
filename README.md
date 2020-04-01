@@ -32,7 +32,8 @@
 - 깃허브 링크의 Java Web Back-end에서 줄기 부분에서 관심 있는 부분에 대해 작성했습니다.
 - 순서는 먼저 배울 생각이 있는 순서대로 작성했습니다.
 
-1. Java 8
+1. Modern Java (8, 9, 10)
+    - Functional Programming(자바 8 기본 함수 사용, 병렬에서의 성능 차이에 대한 이해) -> Reactive Programming(심화?, WebFlux/RxJava..) 
 2. TDD
 3. Spring
     - MVC, Core, Rest api etc...
